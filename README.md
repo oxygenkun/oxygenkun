@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👀 I'm oxygenkun
 
-I'm current learning C++.
+📚 Current learning C++.
+
+🌌 Interests are ACG and Tech.
+
+😶 Weeeeb & Otaku
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxygenkun&exclude_repo=WebServer,you-get,WebServer-1,bilibili-dd-monitor,DD_Monitor,json-tutorial,vue-admin-template,jdTest&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
