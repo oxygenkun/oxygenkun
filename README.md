@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm current learning C++.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxygenkun)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxygenkun&exclude_repo=vue-admin-template)](https://github.com/anuraghazra/github-readme-stats)
