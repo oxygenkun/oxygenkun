@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👀 I'm oxygenkun
 
-📚 Current learning C++.
+📚 Current learning Python, C++, Clickhouse.
 
 🌌 Interests are ACG and Tech.
 
